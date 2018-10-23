@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="1dp">
+
+    <com.imaginedev.odometerview.FlipmeterSpinner
+        android:id="@+id/widget_flipmeter_spinner_100k"
+        style="@style/OdometerStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <com.imaginedev.odometerview.FlipmeterSpinner
+        android:id="@+id/widget_flipmeter_spinner_10k"
+        style="@style/OdometerStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <com.imaginedev.odometerview.FlipmeterSpinner
+        android:id="@+id/widget_flipmeter_spinner_1k"
+        style="@style/OdometerStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <com.imaginedev.odometerview.FlipmeterSpinner
+        android:id="@+id/widget_flipmeter_spinner_100"
+        style="@style/OdometerStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <com.imaginedev.odometerview.FlipmeterSpinner
+        android:id="@+id/widget_flipmeter_spinner_10"
+        style="@style/OdometerStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <com.imaginedev.odometerview.FlipmeterSpinner
+        android:id="@+id/widget_flipmeter_spinner_1"
+        style="@style/OdometerStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_width="2dp"
+        android:layout_height="match_parent"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="2dp"
+        android:background="#24293c" />
+
+    <com.imaginedev.odometerview.FlipmeterSpinner
+        android:id="@+id/widget_flipmeter_spinner_decimal"
+        style="@style/OdometerStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
