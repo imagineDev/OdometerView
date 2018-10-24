@@ -32,3 +32,8 @@ odometer.setValue(value, withAnimate);
 ## Screenshot
 <img src="https://github.com/imagineDev/OdometerView/blob/master/screenshots/Screen1.png" width="300"/>
 <img src="https://github.com/imagineDev/OdometerView/blob/master/screenshots/Screen%20GIF.gif" width="300"/>
+
+<br/><br/>
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details
